@@ -43,7 +43,7 @@
       <td align="center"><strong>⭐ Satisfaction</strong></td>
     </tr>
     <tr>
-      <td align="center">2.5+ Years</td>
+      <td align="center">3+ Years</td>
       <td align="center">30+ Completed</td>
       <td align="center">20+ Clients</td>
       <td align="center">99%</td>
