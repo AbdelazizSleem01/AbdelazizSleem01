@@ -16,7 +16,6 @@
 <br/><br/>
 
 <a href="https://abdelaziz-sleem.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/abdelaziz-sleem-600a1027a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:abdelazizsleem957@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://facebook.com/abdelaziz.sleem.2025"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://instagram.com/abdelaziz_sleem"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -129,11 +128,6 @@ available:   Freelance projects — web apps, dashboards, AI integrations
 
 ## 🚀 Featured Projects
 
-<!--
-  📌 Put your project images inside the repo at /assets (or upload them via an issue and paste the URL).
-  Expected file names: aljarrah.png, marvel.png, feen.png, stem.png, maher.png, cyberguard.png
--->
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -141,7 +135,7 @@ available:   Freelance projects — web apps, dashboards, AI integrations
 ### 🧠 MAHER AI
 **AI Healthcare Copilot for Clinicians**
 
-<a href="https://mahermed.app"><img src="./assets/maher.png" alt="MAHER AI" width="100%"/></a>
+<a href="https://mahermed.app"><img src="https://api.microlink.io/?url=https://mahermed.app&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1280&viewport.height=800&waitUntil=networkidle2" alt="MAHER AI" width="100%"/></a>
 
 Evidence-based diagnostic support, context-aware chatbots and clinical calculators in **Arabic & English**. Live triage feeds with 0–100 patient risk scoring across **7,200+ records**.
 
@@ -155,7 +149,7 @@ Evidence-based diagnostic support, context-aware chatbots and clinical calculato
 ### 🏥 Marvel Healthcare Group
 **Multi-Company Corporate Ecosystem + CMS**
 
-<a href="https://group.marvelwall.com"><img src="./assets/marvel.png" alt="Marvel Group" width="100%"/></a>
+<a href="https://group.marvelwall.com"><img src="https://api.microlink.io/?url=https://group.marvelwall.com&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1280&viewport.height=800&waitUntil=networkidle2" alt="Marvel Group" width="100%"/></a>
 
 One bilingual (LTR/RTL) portal unifying **6 healthcare brands** across 3 countries, powered by a custom CMS with Swagger-documented APIs (**30+ endpoints**).
 
@@ -171,7 +165,7 @@ One bilingual (LTR/RTL) portal unifying **6 healthcare brands** across 3 countri
 ### 📚 Ibn Al-Jarrah
 **Digital Publishing & Bookstore Platform**
 
-<a href="https://al-jarrah.vercel.app"><img src="./assets/aljarrah.png" alt="Ibn Al-Jarrah" width="100%"/></a>
+<a href="https://al-jarrah.vercel.app"><img src="https://api.microlink.io/?url=https://al-jarrah.vercel.app&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1280&viewport.height=800&waitUntil=networkidle2" alt="Ibn Al-Jarrah" width="100%"/></a>
 
 Dual Grid/Table catalog, multi-currency pricing (EGP / LYD), **Arabic-normalized search** (+50% accuracy) and a bulk Excel/CSV importer handling **1,000+ books** in seconds.
 
@@ -185,7 +179,7 @@ Dual Grid/Table catalog, multi-currency pricing (EGP / LYD), **Arabic-normalized
 ### 🛡️ CyberGuard
 **Attack Surface Monitoring Platform**
 
-<a href="https://cyb-gau.vercel.app/en"><img src="./assets/cyberguard.png" alt="CyberGuard" width="100%"/></a>
+<a href="https://cyb-gau.vercel.app/en"><img src="https://api.microlink.io/?url=https://cyb-gau.vercel.app/en&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1280&viewport.height=800&waitUntil=networkidle2" alt="CyberGuard" width="100%"/></a>
 
 **11+ automated scanning modules** (port scanning, SSL audits, subdomain discovery), Have I Been Pwned monitoring and bilingual PDF / Word / Excel audit reports.
 
@@ -201,7 +195,7 @@ Dual Grid/Table catalog, multi-currency pricing (EGP / LYD), **Arabic-normalized
 ### 🎓 STEM Academy
 **E-Learning & Course Platform**
 
-<a href="https://stem-v2.vercel.app"><img src="./assets/stem.png" alt="STEM Academy" width="100%"/></a>
+<a href="https://stem-v2.vercel.app"><img src="https://api.microlink.io/?url=https://stem-v2.vercel.app&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1280&viewport.height=800&waitUntil=networkidle2" alt="STEM Academy" width="100%"/></a>
 
 Role-based learning platform with protected video streaming, course dashboards and **offline PWA support** (+30% course completion).
 
@@ -214,8 +208,6 @@ Role-based learning platform with protected video streaming, course dashboards a
 
 ### 📍 Feen — فين حطيتها؟
 **Smart Lost-&-Found / Belongings Organizer**
-
-<img src="./assets/feen.png" alt="Feen" width="100%"/>
 
 Organize your belongings by place, search instantly and recall where everything is — with QR codes, favorites and a fully bilingual (AR/EN) dashboard.
 
@@ -326,7 +318,6 @@ I'd love to hear about it.
 
 <a href="mailto:abdelazizsleem957@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email me"/></a>
 <a href="https://abdelaziz-sleem.vercel.app/ContactMe"><img src="https://img.shields.io/badge/Contact%20Form-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Contact form"/></a>
-<a href="https://linkedin.com/in/abdelaziz-sleem-600a1027a"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br/><br/>
 
