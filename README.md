@@ -290,18 +290,22 @@ Organize your belongings by place, search instantly and recall where everything 
 
 <!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=AbdelazizSleem01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" alt="GitHub Stats"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelazizSleem01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+<img src="https://img.shields.io/github/followers/AbdelazizSleem01?style=for-the-badge&logo=github&color=7B2FF7&labelColor=0D1117" alt="Followers"/>
+<img src="https://img.shields.io/badge/Contributions-1%2C000%2B-00F7FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" alt="Contributions"/>
+<img src="https://img.shields.io/badge/Open%20Source%20%26%20Freelance-30%2B%20Projects-FF2E93?style=for-the-badge&labelColor=0D1117" alt="Projects"/>
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=AbdelazizSleem01&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
+<br/><br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelazizSleem01&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Activity Graph" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AbdelazizSleem01&theme=radical&no-frame=true&no-bg=true&margin-w=6" alt="Trophies"/>
 
 </div>
 
